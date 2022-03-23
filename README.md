@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunny Saha
-- 👀 I’m interested in React, Node Js
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in React, Python, FastAPI, NodeJS
+- 🌱 I’m currently learning FARM Stack
 - 💞️ I’m looking to collaborate on Remote work
 - 📫 How to reach me scsahasunny@gmail.com or https://www.linkedin.com/in/sunny-saha-972205160/
 
