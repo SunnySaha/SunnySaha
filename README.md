@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunny Saha
-- 👀 I’m interested in React, Python, FastAPI, NodeJS
-- 🌱 I’m currently learning FARM Stack
-- 💞️ I’m looking to collaborate on Remote work
+- 👀 I’m interested in Development, machine learning, Agentic AI
+- 🌱 I’m currently doing my master's at Stockholm University
+- 💞️ I’m looking for internship/thesis research opportunity
 - 📫 How to reach me scsahasunny@gmail.com or https://www.linkedin.com/in/scsaha/
 
 <!---
